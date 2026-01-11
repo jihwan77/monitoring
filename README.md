@@ -85,6 +85,9 @@ Management Zone은 “운영자만 접근 가능한 영역”이라는 전제를
 
 ## 6. Grafana 구성
 
+<img width="1521" height="827" alt="image" src="https://github.com/user-attachments/assets/c7000566-8f82-4dbd-93d8-85b5fecc6095" />
+
+
 ### 역할
 
 * 메트릭 시각화
@@ -107,6 +110,9 @@ Grafana는 단순 시각화 도구가 아니라
 ---
 
 ## 7. Loki 기반 로그 수집
+
+<img width="1534" height="817" alt="image" src="https://github.com/user-attachments/assets/0bc9d788-eb54-449b-9fe6-626d380ecb3f" />
+
 
 ### Loki 도입 이유
 
@@ -131,6 +137,9 @@ Grafana는 단순 시각화 도구가 아니라
 
 본 모니터링 시스템의 핵심은
 **메트릭 → 로그로 자연스럽게 이어지는 분석 흐름**이다.
+
+<img width="662" height="389" alt="image" src="https://github.com/user-attachments/assets/f742d972-e174-459f-8d99-5fd61d175145" />
+
 
 예시 흐름:
 
